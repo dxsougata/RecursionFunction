@@ -1,0 +1,1 @@
+Recursion is a powerful concept where a function calls itself to solve a smaller instance of the same problem. It's commonly used in scenarios like tree traversal, divide and conquer algorithms, and solving mathematical problems elegantly.
